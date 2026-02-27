@@ -27,12 +27,9 @@ The project focuses on deterministic real-time execution, avoiding race conditio
 
 Developed by **Team Awsome**:
 
-- [@GabrielBadeaTM] - Badea Cătălin-Gabriel
+- [@GabrielBadeaTM](https://github.com/GabrielBadeaTM)
 - Buterez Daniela-Georgiana
 - Ionașcu Vlad-Mihai
-
-  <!-- - [@daniela-buterez] - Buterez Daniela-Georgiana -->
-  <!-- - [@vlad-ionascu] - Ionașcu Vlad-Mihai -->
 
 Developed during the Real-Time Application Programming (PATR) course at the Faculty of Automatic Control and Computers (ACS), University Politehnica of Bucharest (UPB) -- Semester I, 2025-2026.
 
